@@ -4,6 +4,8 @@ addons:
   sonarcloud:
     token:
       secure: "43e3bd2f41d62a3c5124af32f5f3af9c7f0c16fe"
+
+ 
 script:
   - sonar-scanner
 

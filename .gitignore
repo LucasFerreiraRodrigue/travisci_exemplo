@@ -1,4 +1,5 @@
 /target/
+!/target/classes/br
 /.settings
 
 *.classpath
